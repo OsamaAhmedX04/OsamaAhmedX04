@@ -50,11 +50,13 @@
 </a>
 </p>
 
-<p><a href="https://osamaahmedx04.github.io/Portfolio/" alt="OsamaAhmedX04" />My Portfolio</p>
+<br>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OsamaAhmedX04&show_icons=true&locale=en&theme=dark" alt="OsamaAhmedX04" /></p> -->
+<a href="https://osamaahmedx04.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://www.nicepng.com/png/full/111-1112693_portfolio-my-portfolio.png" alt="My Portfolio" width="230" height="80"/>
+</a>
 
-
+<br>
 
 ## 📫 Connect with Me:
 
