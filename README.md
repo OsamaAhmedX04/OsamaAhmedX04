@@ -50,7 +50,7 @@
 </a>
 </p>
 
-<p><img align="left" src="https://osamaahmedx04.github.io/Portfolio/" alt="OsamaAhmedX04" /></p>
+<p><a href="https://osamaahmedx04.github.io/Portfolio/" alt="OsamaAhmedX04" />My Portfolio</p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OsamaAhmedX04&show_icons=true&locale=en&theme=dark" alt="OsamaAhmedX04" /></p> -->
 
