@@ -53,14 +53,26 @@
 
 <br>
 
-<a href="https://osamaahmedx04.github.io/Portfolio/" target="_blank" rel="noreferrer">
-  <img src="https://www.nicepng.com/png/full/111-1112693_portfolio-my-portfolio.png" alt="My Portfolio" width="230" height="80"/>
-</a>
+<p align="center">
+  <a href="https://osamaahmedx04.github.io/Portfolio/" target="_blank" rel="noreferrer">
+    <img src="https://www.nicepng.com/png/full/111-1112693_portfolio-my-portfolio.png" alt="My Portfolio" width="230" height="80"/>
+  </a>
+</p>
 
 <br>
 
-## 📫 Connect with Me:
+## 📫 Connect with Me
 
-- [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OsamaAhmedX04)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-ahmed-a636032b5)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osamaahmedx04@gmail.com)
+<p align="center">
+  <a href="https://github.com/OsamaAhmedX04">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/osama-ahmed-a636032b5">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:osamaahmedx04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
